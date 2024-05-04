@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧑‍✈️ GPT PILOT 🧑‍✈️
+# 🧑‍✈️ GPT REPILOT 🧑‍✈️
 
 </div>
 
@@ -29,7 +29,7 @@
 
 <div align="center">
 
-### GPT Pilot doesn't just generate code, it builds apps!
+### GPT rePilot doesn't just generate code, it builds apps on remote machines! (sort off..)
 
 </div>
 
